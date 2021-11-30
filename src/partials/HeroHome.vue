@@ -32,7 +32,7 @@
           </p>
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
             <div data-aos="fade-up" data-aos-delay="400">
-              <a class="btn text-yellow-100 bg-blue-500 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">WHITEPAPER</a>
+              <a class="btn text-yellow-100 bg-blue-500 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="../pdf/WHITE_PAPER_INU_CARDANO.pdf">WHITEPAPER</a>
             </div>
             <div data-aos="fade-up" data-aos-delay="600">
               <a class="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://www.bscscan.com/token/0x7d2f3e179b3c2f5694b4079530624a17beef0ecc?a=0x7d2f3e179b3c2f5694b4079530624a17beef0ecc">CONTRACT ADDRESS</a>
