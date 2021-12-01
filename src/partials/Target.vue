@@ -16,8 +16,8 @@
 
             <!-- Image -->
             <div class="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:rtl" data-aos="fade-right" data-aos-delay="200" data-aos-anchor="[data-aos-id-target]">
-              <img class="mx-auto md:max-w-none" src="../images/target1.jpg" width="540"  alt="Features 02" />
-               <img class="mx-auto md:max-w-none" src="../images/target2.jpg" width="540" alt="Features 02" />
+              <img class="mx-auto md:max-w-none" src="../images/arrow.jpg" width="540"  alt="Features 02" />
+               <img class="mx-auto md:max-w-none" src="../images/blue.jpg" width="540" alt="Features 02" />
             </div>
 
             <!-- Content -->

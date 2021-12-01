@@ -7,7 +7,7 @@
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
 
         
-          <h2 class="h2 mb-4" data-aos="fade-up">Built Exclusively For You</h2>
+          <h2 class="h2 mb-4" data-aos="fade-up">All in One Ecosystem</h2>
           
 
             <div class="flex justify-center  mb-2">

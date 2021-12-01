@@ -7,7 +7,7 @@
         <div class="flex-shrink-0 mt-3 mr-4">
           <!-- Logo -->
           <router-link to="/" class="block" aria-label="Cruip">
-            <img class="rounded-full m-auto p-10 animate-bounce my-5"  src="../images/logo.png"/>
+            <img class="rounded-full width-300 mx-auto p-10 animate-bounce my-5"  src="../images/logo.png"/>
 
           </router-link>
         </div>

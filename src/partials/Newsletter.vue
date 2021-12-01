@@ -28,7 +28,7 @@
 
           <!-- CTA form -->
           <div data-aos="fade-up" data-aos-delay="400">
-              <a class="btn text-yellow-200 bg-yellow-500 hover:bg-yellow-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://poocoin.app/tokens/0x7d2f3e179b3c2f5694b4079530624a17beef0ecc">BUY NOW</a>
+              <a class="btn text-yellow-200 bg-yellow-500 hover:bg-yellow-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://pancakeswap.finance/swap">BUY NOW</a>
             </div>
         </div>
 

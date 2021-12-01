@@ -12,8 +12,8 @@
             <!-- Image -->
             <div class="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up" data-aos-anchor="[data-aos-id-features-home]">
               <div class="relative">
-                <img class="md:max-w-none" src="../images/about1.jpg" width="540"  alt="Features illustration" />
-                 <img class="md:max-w-none" src="../images/about2.jpg" width="540"  alt="Features illustration" />
+                <img class="md:max-w-none" src="../images/about2.jpg" width="540"  alt="Features illustration" />
+                 <img class="md:max-w-none" src="../images/about3.jpg" width="540"  alt="Features illustration" />
                
               </div>
             </div>
